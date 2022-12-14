@@ -1,0 +1,83 @@
+﻿@model IEnumerable<CDUCommunityMusic.Models.Lessons>
+
+@{
+    ViewData["Title"] = "Lessons";
+}
+
+<h1>Lessons</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Select
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Students)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instruments)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tutors)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Durations)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TermNyear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateNtime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+@foreach (var item in Model) {
+
+    <tr>    <td>
+                    <input type="checkbox" id="">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Students.FullName )
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instruments.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tutors.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Durations.Minutes)
+                at
+                @Html.DisplayFor(modelItem => item.Durations.Cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TermNyear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateNtime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentStatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                <a asp-action="UpdatePayment" asp-route-id="@item.Id">Update Payment</a>
+
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

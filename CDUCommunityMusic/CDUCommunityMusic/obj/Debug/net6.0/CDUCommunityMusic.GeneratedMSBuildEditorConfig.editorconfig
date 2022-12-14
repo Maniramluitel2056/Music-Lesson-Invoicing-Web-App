@@ -1,0 +1,204 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CDUCommunityMusic
+build_property.RootNamespace = CDUCommunityMusic
+build_property.ProjectDir = C:\Users\Mani\source\repos\CDUCommunityMusic\CDUCommunityMusic\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mani\source\repos\CDUCommunityMusic\CDUCommunityMusic
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Durations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVyYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Durations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVyYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Durations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVyYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Durations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVyYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Durations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVyYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Genders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Genders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Genders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Genders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Genders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Instruments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Instruments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Instruments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Instruments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Instruments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Lessons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Lessons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Lessons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Lessons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Lessons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Letters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV0dGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Letters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV0dGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Letters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV0dGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Letters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV0dGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Letters/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV0dGVyc1xFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Letters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV0dGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Shared/Letters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExldHRlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Shared/Letters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExldHRlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Shared/Letters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExldHRlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Shared/Letters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExldHRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Tutors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Tutors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Tutors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Tutors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Tutors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mani/source/repos/CDUCommunityMusic/CDUCommunityMusic/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q5lloyajsi

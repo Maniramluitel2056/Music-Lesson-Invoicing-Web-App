@@ -1,0 +1,82 @@
+﻿@model CDUCommunityMusic.Models.Letter
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Letter</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="StudentId" class="control-label"></label>
+                <select asp-for="StudentId" class ="form-control" asp-items="ViewBag.StudentId"></select>
+            </div>
+            <div class="form-group">
+                 <label asp-for="Payment" class="control-label"></label>
+                <select asp-for="Payment" asp-items="Html.GetEnumSelectList<Letter.Status>()"></select>
+                <span asp-validation-for="Payment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InitialComment" class="control-label"></label>
+                <input asp-for="InitialComment" class="form-control" />
+                <span asp-validation-for="InitialComment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BankName" class="control-label"></label>
+                <input asp-for="BankName" class="form-control" />
+                <span asp-validation-for="BankName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccountName" class="control-label"></label>
+                <input asp-for="AccountName" class="form-control" />
+                <span asp-validation-for="AccountName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccountNumber" class="control-label"></label>
+                <input asp-for="AccountNumber" class="form-control" />
+                <span asp-validation-for="AccountNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BSB" class="control-label"></label>
+                <input asp-for="BSB" class="form-control" />
+                <span asp-validation-for="BSB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Term" class="control-label"></label>
+                <select asp-for="Term" asp-items="Html.GetEnumSelectList<Letter.Terms>()"></select>
+                <span asp-validation-for="Term" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CurrentSemestern" class="control-label"></label>
+                <select asp-for="CurrentSemestern" asp-items="Html.GetEnumSelectList<Letter.Semester>()"></select>
+                <span asp-validation-for="CurrentSemestern" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CurrentYear" class="control-label"></label>
+                <input asp-for="CurrentYear" class="form-control" />
+                <span asp-validation-for="CurrentYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TermStartDate" class="control-label"></label>
+                <input asp-for="TermStartDate" class="form-control" />
+                <span asp-validation-for="TermStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
